@@ -7,4 +7,5 @@
     <string name="lastThrowText">Last Throw: %d</string>
     <string name="correct">Correct!</string>
     <string name="incorrect">Incorrect...</string>
+    <string name="imageViewDescription">Dice</string>
 </resources>
